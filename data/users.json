@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"email": "enestoraman@yahoo.com",
+		"username": "ET",
+		"firstName": "Enes",
+		"lastName": "Toraman",
+		"isActive": true
+	},
+	{
+		"id": 2,
+		"email": "enstrmn@hotmail.com",
+		"username": "EnsTrmn",
+		"firstName": "Enes",
+		"lastName": "TRMN",
+		"isActive": true
+	},
+	{
+		"id": 3,
+		"email": "toraman.enes@yahoo.com",
+		"username": "Enes.Toraman",
+		"firstName": "Enes",
+		"lastName": "Toraman",
+		"isActive": false
+	},
+	{
+		"id": 4,
+		"email": "enestoraman@gmail.com",
+		"username": "EnesToraman",
+		"firstName": "Enes",
+		"lastName": "Toraman",
+		"isActive": true
+	},
+	{
+		"id": 5,
+		"email": "enestoraman@hotmail.com",
+		"username": "E.T",
+		"firstName": "Enes",
+		"lastName": "Toraman",
+		"isActive": false
+	},
+	{
+		"id": 6,
+		"email": "enes.toraman@boun.edu.tr",
+		"username": "EnTo",
+		"firstName": "Enes",
+		"lastName": "Toraman",
+		"isActive": true
+	}
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Electronic",
+        "productQty": 25,
+        "isMain": true
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "productQty": 17,
+        "isMain": false
+    },
+    {
+        "id": 3,
+        "name": "Shoe",
+        "productQty": 34,
+        "isMain": true
+    },
+    {
+        "id": 4,
+        "name": "Self-Care",
+        "productQty": 5,
+        "isMain": false
+    }
+]

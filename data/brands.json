@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "productQty": 6,
+        "totalWorth": 70000.15
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "productQty": 12,
+        "totalWorth": 55700.84
+    },
+    {
+        "id": 3,
+        "name": "HP",
+        "productQty": 15,
+        "totalWorth": 36840.47
+    },
+    {
+        "id": 4,
+        "name": "Philips",
+        "productQty": 9,
+        "totalWorth": 47520.32
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi",
+        "productQty": 21,
+        "totalWorth": 86000.29
+    },
+    {
+        "id": 6,
+        "name": "MX",
+        "productQty": 2,
+        "totalWorth": 2000.24
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "userID": 1,
+        "products": [
+            {
+                "productID": 1,
+                "sku": "11004545",
+                "quantity": 2
+            },
+            {
+                "productID": 2,
+                "sku": "22115656",
+                "quantity": 4
+            },
+            {
+                "productID": 3,
+                "sku": "33226767",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "userID": 2,
+        "products": [
+            {
+                "productID": 2,
+                "sku": "22115656",
+                "quantity": 4
+            },
+            {
+                "productID": 5,
+                "sku": "55448989",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "userID": 5,
+        "products": [
+            {
+                "productID": 1,
+                "sku": "11004545",
+                "quantity": 1
+            },
+            {
+                "productID": 2,
+                "sku": "22115656",
+                "quantity": 3
+            },
+            {
+                "productID": 3,
+                "sku": "33226767",
+                "quantity": 1
+            },
+            {
+                "productID": 6,
+                "sku": "66559090",
+                "quantity": 6
+            }
+        ]
+    }
+]

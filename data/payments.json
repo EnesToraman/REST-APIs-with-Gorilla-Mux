@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "userID": 1,
+        "amount": 11546.5,
+        "discount": 150.5,
+        "tax": 48.76
+    },
+    {
+        "id": 2,
+        "userID": 1,
+        "amount": 15550.8,
+        "discount": 120.2,
+        "tax": 156.78
+    },
+    {
+        "id": 3,
+        "userID": 1,
+        "amount": 3456.78,
+        "discount": 100.22,
+        "tax": 97.45
+    },
+    {
+        "id": 4,
+        "userID": 2,
+        "amount": 5656.12,
+        "discount": 80.88,
+        "tax": 67.54
+    },
+    {
+        "id": 6,
+        "userID": 4,
+        "amount": 6787.35,
+        "discount": 120.65,
+        "tax": 14.78
+    },
+    {
+        "id": 7,
+        "userID": 4,
+        "amount": 1999.9,
+        "discount": 110.1,
+        "tax": 66.88
+    },
+    {
+        "id": 8,
+        "userID": 5,
+        "amount": 8080.8,
+        "discount": 145.2,
+        "tax": 84.55
+    },
+    {
+        "id": 9,
+        "userID": 6,
+        "amount": 1100.56,
+        "discount": 25.44,
+        "tax": 99.1
+    }
+]
