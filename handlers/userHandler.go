@@ -184,23 +184,22 @@ func GetUsersByActivity(w http.ResponseWriter, r *http.Request) {
 	var users []models.User
 	var resUsers []models.User
 	params := mux.Vars(r)
-	isActive := params["isActive"]
-	active, err := strconv.ParseBool(isActive)
+	isActive, err := strconv.ParseBool(params["isActive"])
 	CheckError(err)
 
 	usersBytes, err := os.ReadFile("data/users.json")
 	CheckError(err)
 	json.Unmarshal(usersBytes, &users)
 
-	if active {
+	if isActive {
 		for i := range users {
-			if users[i].IsActive == active {
+			if users[i].IsActive == isActive {
 				resUsers = append(resUsers, users[i])
 			}
 		}
 	} else {
 		for i := range users {
-			if users[i].IsActive == active {
+			if users[i].IsActive == isActive {
 				resUsers = append(resUsers, users[i])
 			}
 		}

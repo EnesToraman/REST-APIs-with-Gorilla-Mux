@@ -18,6 +18,7 @@ func main() {
 	h.HandleFuncPayments(r)
 	h.HandleFuncCustomers(r)
 	h.HandleFuncBaskets(r)
+	h.HandleFuncBrands(r)
 
 	log.Fatal(http.ListenAndServe(":8080", r))
 }

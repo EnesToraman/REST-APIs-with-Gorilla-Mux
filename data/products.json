@@ -1,44 +1,44 @@
 [
-    {
-        "id": 1,
-        "sku": "11004545",
-        "name": "Samsung Television",
-        "price": 7999.9,
-        "stock": 67
-    },
-    {
-        "id": 2,
-        "sku": "22115656",
-        "name": "iPhone 13 Pro",
-        "price": 13999.9,
-        "stock": 15
-    },
-    {
-        "id": 3,
-        "sku": "33226767",
-        "name": "HP Laptop",
-        "price": 10999.9,
-        "stock": 33
-    },
-    {
-        "id": 4,
-        "sku": "44337878",
-        "name": "Philips Razor",
-        "price": 699.9,
-        "stock": 49
-    },
-    {
-        "id": 5,
-        "sku": "55448989",
-        "name": "Xiaomi Robot",
-        "price": 4999.9,
-        "stock": 21
-    },
-    {
-        "id": 6,
-        "sku": "66559090",
-        "name": "MX Mouse",
-        "price": 199.9,
-        "stock": 86
-    }
+	{
+		"id": 1,
+		"sku": "11004545",
+		"name": "Samsung Television",
+		"price": 7999.9,
+		"stock": 68
+	},
+	{
+		"id": 2,
+		"sku": "22115656",
+		"name": "iPhone 13 Pro",
+		"price": 13999.9,
+		"stock": 15
+	},
+	{
+		"id": 3,
+		"sku": "33226767",
+		"name": "HP Laptop",
+		"price": 10999.9,
+		"stock": 33
+	},
+	{
+		"id": 4,
+		"sku": "44337878",
+		"name": "Philips Razor",
+		"price": 699.9,
+		"stock": 49
+	},
+	{
+		"id": 5,
+		"sku": "55448989",
+		"name": "Xiaomi Robot",
+		"price": 4999.9,
+		"stock": 21
+	},
+	{
+		"id": 6,
+		"sku": "66559090",
+		"name": "MX Mouse",
+		"price": 199.9,
+		"stock": 86
+	}
 ]
