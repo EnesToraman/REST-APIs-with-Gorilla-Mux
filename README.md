@@ -22,6 +22,6 @@ Project is deployed to Heroku. Accessible via URL below:
 
 #### Example - endpoints with query parameters
 
-- /users/?id=5
-- /products/?sku=11004545
-- /payments/?userID=2
+- /users/id/5
+- /products/sku/11004545
+- /payments/userID/2
