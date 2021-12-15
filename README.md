@@ -4,12 +4,12 @@ Project is deployed to Heroku. Accessible via URL below:
 [go-task-v2.herokuapp.com](https://go-task-v1.herokuapp.com/)
 ## Endpoints
 
-- /users/
-- /products/
-- /payments/
-- /brands/
-- /customers/
-- /baskets/
+- /users
+- /products
+- /payments
+- /brands
+- /customers
+- /baskets
 
 ### Query Parameters
 
