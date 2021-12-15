@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Task v2</title>
+</head>
+<body>
+    <h2>REST API design with Gorilla Mux</h2>
+
+    <h3>Endpoints</h3>
+    <ul>
+        <li>/users/</li>
+        <li>/products/</li>
+        <li>/payments/</li>
+        <li>/brands/</li>
+        <li>/customers/</li>
+        <li>/baskets/</li>
+    </ul>
+
+    <h4>Query Parameters</h4>
+    <ul>
+        <li>/users/ -> id, email, username, isActive</li>
+        <li>/products/ -> sku, name, price, stock</li>
+        <li>/payments/ -> userID, amount, discount, tax</li>
+        <li>/brands/ -> id, name, productQty, totalWorth</li>
+        <li>/customers/ -> id, userID, purchaseAmount, orderQty</li>
+        <li>/baskets/ -> userID, productID, sku, quantity</li>
+    </ul>
+
+    <h4>Example - endpoints with query parameters</h4>
+    <ul>
+        <li>/users/?id=5</li>
+        <li>/products/?sku=11004545</li>
+        <li>/payments/?userID=2</li>
+    </ul>
+</body>
+</html>

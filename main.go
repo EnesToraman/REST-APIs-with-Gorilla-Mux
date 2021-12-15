@@ -12,7 +12,7 @@ import (
 func main() {
 	r := mux.NewRouter()
 
-	r.HandleFunc("/", h.HomeHandler)
+	r.Handle("/", http.FileServer(http.Dir("./static")))
 	h.HandleFuncUsers(r)
 	h.HandleFuncProducts(r)
 	h.HandleFuncPayments(r)
